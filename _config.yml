@@ -7,17 +7,17 @@
 
 # Main Page Setup
 
-title: John Doe's Portfolio # This is what shows up in the tab of the browser
+title: Julian Ruocco's Portfolio # This is what shows up in the tab of the browser
 
 
 
 # Hero Section
-name: John Doe
-headline: headline message
+name: Julian Ruocco
+headline: Space Systems Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Senior at Penn State passionate about space and control systems. Majoring in Aerospace Engineering, minoring in Engineering Leadership Development, and pursuing a Space Systems Certificate. I’m currently a Laboratory Lead in the Student Space Programs Laboratory and a Team Leader for the final round of NASA’s LunaRecycle challenge.
+
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
